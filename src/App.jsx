@@ -1,5 +1,7 @@
 import React from "react";
-import Tab  from "./Tab.jsx";
+import Tab from "./Tab.jsx";
+import "./App.css";
+
 function App() {
   return (
     <div>
