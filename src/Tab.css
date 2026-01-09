@@ -7,14 +7,13 @@
 .tabs-container {
   display: flex;
   gap: 10px;
-  border-bottom: 3px solid #e0e0e0;
+  border-bottom: 3px solid #e0e0e079;
   margin-bottom: 30px;
-  background-color: #f8f9fa;
   border-radius: 8px 8px 0 0;
 }
 .tabs-container .tab {
   padding: 12px 20px;
-  color: #666;
+  color: #020202a2;
   background-color: transparent;
   font-size: 16px;
   font-weight: 600;
@@ -22,8 +21,8 @@
   border-bottom: 3px solid transparent;
   cursor: pointer;
 }
-.tab:hover{
-    background-color: purple;
-    color: #fff;
-    border-radius: 25px;
+.tab:hover {
+  background-color: purple;
+  color: #fff;
+  border-radius: 25px;
 }

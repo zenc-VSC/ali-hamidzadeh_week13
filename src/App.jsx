@@ -4,8 +4,8 @@ import "./App.css";
 
 function App() {
   return (
-    <div>
-      <h1>BotoStart | Tab Component project</h1>
+    <div className="app-container">
+      <h1 className="app-title">BotoStart | Tab Component project</h1>
       <Tab />
     </div>
   );
